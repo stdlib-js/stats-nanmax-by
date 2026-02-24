@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-02-24)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`4e515d0`](https://github.com/stdlib-js/stdlib/commit/4e515d00f1842205ce95fa65d53d95d19b1ee939) - **bench:** refactor to use string interpolation in `stats/nanmax-by` [(#10462)](https://github.com/stdlib-js/stdlib/pull/10462) _(by Kamal Singh Rautela)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Kamal Singh Rautela
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.1.1">
 
 ## 0.1.1 (2026-02-08)
