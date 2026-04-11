@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`2d4fd4e`](https://github.com/stdlib-js/stdlib/commit/2d4fd4ebbf39d8d3067d1097064f883d25b34d98) - **bench:** refactor to use string interpolation in `stats/**/nanmax-by` packages [(#10495)](https://github.com/stdlib-js/stdlib/pull/10495) _(by Kamal Singh Rautela, Athan Reines)_
 -   [`4e515d0`](https://github.com/stdlib-js/stdlib/commit/4e515d00f1842205ce95fa65d53d95d19b1ee939) - **bench:** refactor to use string interpolation in `stats/nanmax-by` [(#10462)](https://github.com/stdlib-js/stdlib/pull/10462) _(by Kamal Singh Rautela)_
 
 </details>
@@ -24,8 +25,9 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Kamal Singh Rautela
 
 </section>
